@@ -13,3 +13,12 @@
 |Working Directory| - 이력 관리 대상 파일들이 위치하는 영역<br> - 저장소 디렉토리에서 .git 폴더를 제외한 공간 <br> - 작업 중인 파일이나 코드가 저장되는 공간|
 |Staging Area| - 이력을 기록할, 즉 커밋을 진행할 대상 파일들이 위치하는 영역 <br> - .git 폴더 하위에 파일 형태로 존재(index)|
 |Repository| - 이력이 기록된 파일들이 있는 영역 <br> - .git 폴더에 이력 관리를 위한 모든 정보가 저장, 관리됨|
+
+
+# 기본 명령어
+* git init - 저장소 생성
+* git config user.name "  "
+* git config user.email "  "
+* git config --list
+* git config
+* git help
