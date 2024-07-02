@@ -22,3 +22,32 @@
 * git config --list
 * git config
 * git help
+
+---
+# 기본 명령어 2
+* git status
+* git add
+* git add.
+* git commit
+* git commit -m " "
+* git commiit -am "  "
+
+---
+# 기본 명령어 3
+* git status
+* git status -s
+* git log
+* git log --pretty=oneline
+* git log --oneline
+* git log --graph
+
+* git show
+* git show HEAD
+* git show HEAD^^^
+* git show HEAD~n
+
+---
+# 기본 명령어 4
+* git commit --amend
+* git commit --amend -m "  "
+  
